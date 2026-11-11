@@ -1,0 +1,26 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+h1 {
+ color: #00c300;
+ text-decoration: underline;
+}
+
+.patient-table {
+  width: 80%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.patient-table th,
+.patient-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.patient-table th {
+  background-color: #f2f2f2;
+  text-align: left;
+}

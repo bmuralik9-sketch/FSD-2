@@ -1,0 +1,34 @@
+.form-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.add-edit-form {
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.add-edit-form label {
+  margin-top: 10px;
+}
+
+.add-edit-form input {
+  padding: 8px;
+  margin-top: 5px;
+}
+
+.add-edit-form button {
+  margin-top: 20px;
+  padding: 10px;
+}

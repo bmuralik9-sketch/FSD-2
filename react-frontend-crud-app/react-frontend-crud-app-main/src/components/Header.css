@@ -1,0 +1,23 @@
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f0f0f0;
+  width: 100%;
+  padding: 10px 20px;
+}
+.header-title {
+  font-size: 24px;
+  font-weight: bold;
+}
+.header-button {
+  padding: 5px 10px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  background-color: #f0f0f0;
+}
+.header-button:hover {
+  background-color: #e0e0e0;
+  text-decoration: underline;
+}

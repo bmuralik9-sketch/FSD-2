@@ -1,0 +1,32 @@
+[
+  {
+    "id": 2,
+    "name": "Dr. Priya Sharma",
+    "department": "ECE",
+    "email": "priya@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Dr.Kumar",
+    "department": "CSE",
+    "subject": "Java"
+  },
+  {
+    "id": 4,
+    "name": "Dr.Ravi Kumar",
+    "department": "ECE",
+    "subject": "DE"
+  },
+  {
+    "id": 5,
+    "name": "Dr.Kumar",
+    "department": "CSE",
+    "subject": "Java"
+  },
+  {
+    "id": 6,
+    "name": "Dr.Ravi Kumar",
+    "department": "ECE",
+    "subject": "DE"
+  }
+]
